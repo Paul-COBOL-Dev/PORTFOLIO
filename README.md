@@ -4,6 +4,7 @@
   The system implemented in this project is referred to as the **Field Service System (FSS)**.
 
 
+
 2.Project Overview:
 
  (1) This project focuses on the **new policy onboarding process** in **Individual Health Insurance** and explains, step by step, how a manual and paper-driven workflow can be automated and computerized. 
@@ -13,9 +14,11 @@
  (3) The **stakeholders**, **participating departments**, **development team structure (headcount and roles)**, and the **budget** are also defined as fictional assumptions for the purpose of this project.
  
 
+
 3.Technology Stack:
 
   COBOL, CICS, JCL, DB2 / Query, IPFS, VS code, Jason, Modern COBOL
+
 
 
 4.Notes: 
